@@ -1,26 +1,25 @@
-Summary
+Insert Summary here
 
----
 ## **Team Agreement**
 + [Team Agreement](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Team-Agreement)
 
---- 
+
 ## **Project Management**
 + [Trello Board]()
 
----
+
 ## **System Selection**
 
 + [System Selection]()
 
----
+
 
 ## **Topologies and Aides**
 
 + [Topology]() 
     + Timestamp 
 + [Topology Write Up]()
----
+
 
 ## **SOP's**
 + [Security Incident Plan](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Security-Incident-Plan-SOP)
@@ -29,7 +28,7 @@ Summary
 
 
 
----
+
 ## **Presentation**
 + [Presentation Day Video]()
 
