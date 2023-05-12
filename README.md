@@ -12,7 +12,7 @@
 
 + [Topology]() 
     + Timestamp 
-+ [Topology Write Up]()
++ [Topology Write Up](https://docs.google.com/document/d/19IHjptFnuBMNyRWSyHbiLC5NiyUTWXrtT4fW1Jfpz6M/edit?usp=sharing)
 
 
 ## **SOP's**
