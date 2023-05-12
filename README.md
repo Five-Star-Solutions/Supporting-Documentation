@@ -5,13 +5,12 @@ Insert Summary here
 
 
 ## **Project Management**
-+ [Trello Board]()
++ [Trello Board](https://trello.com/w/fivestar401)
 
 
 ## **System Selection**
 
 + [System Selection]()
-
 
 
 ## **Topologies and Aides**
@@ -36,7 +35,7 @@ Insert Summary here
 
 ## **Scripts**
 
-+ [Scripts Repo]()
++ [Scripts Repo](https://github.com/Five-Star-Solutions/Scripts)
 
 ---
 ## **Contributors and Links**
