@@ -8,11 +8,6 @@ Insert Summary here
 + [Trello Board](https://trello.com/w/fivestar401)
 
 
-## **System Selection**
-
-+ [System Selection]()
-
-
 ## **Topologies and Aides**
 
 + [Topology]() 
