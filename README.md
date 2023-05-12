@@ -1,4 +1,4 @@
-# ***Cloud Security Architecture & Design***
+# <u>**Cloud Security Architecture & Design**<u>
 
 ## **Team Agreement**
 + [Team Agreement](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Team-Agreement)
