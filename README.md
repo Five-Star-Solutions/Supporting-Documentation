@@ -2,16 +2,16 @@ Summary
 
 ---
 ## **Team Agreement**
-+ [Team Agreement]()
++ [Team Agreement](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Team-Agreement)
 
 --- 
 ## **Project Management**
-+ [Trello Board](https://trello.com/invite/b/C9X54gQm/ATTIfab7f098db5f400ba40f08bbc9d33a7a9A60FCB6/midterm-project)
++ [Trello Board]()
 
 ---
 ## **System Selection**
 
-+ [System Selection](https://github.com/J-AAT/The-Word/wiki/System-Selection)
++ [System Selection]()
 
 ---
 
@@ -23,8 +23,10 @@ Summary
 ---
 
 ## **SOP's**
-+ [Security Incident Plan](https://github.com/J-AAT/The-Word/wiki/SOP:-File-Access)
-+ [Compliance Documentation](https://github.com/J-AAT/The-Word/wiki/SOP:-Network-Security)
++ [Security Incident Plan](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Security-Incident-Plan-SOP)
+
++ [Security Incident Plan](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Security-Incident-Plan-SOP)
+
 
 
 ---
