@@ -5,6 +5,10 @@ Summary
 + [Team Agreement]()
 
 --- 
+## **Project Management**
++ [Trello Board](https://trello.com/invite/b/C9X54gQm/ATTIfab7f098db5f400ba40f08bbc9d33a7a9A60FCB6/midterm-project)
+
+---
 ## **System Selection**
 
 + [System Selection](https://github.com/J-AAT/The-Word/wiki/System-Selection)
