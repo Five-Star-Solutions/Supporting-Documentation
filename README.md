@@ -23,7 +23,7 @@ Insert Summary here
 ## **SOP's**
 + [Security Incident Plan](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Security-Incident-Plan-SOP)
 
-+ [Security Incident Plan](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Security-Incident-Plan-SOP)
++ [Compliance Documentation](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Compliance-Documentation-SOP)
 
 
 
