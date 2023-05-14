@@ -24,7 +24,7 @@
 
 
 ## **Presentation**
-+ Link available on 05/20/2023
++ Link for presentation video available on 05/20/2023
 + [Presentation Day Video]()
 
 + [Slideshow](https://docs.google.com/presentation/d/1teC4yUv8ziP5DyatGcx7pEjp8VA82iOanr9ZEK7Stb4/edit?usp=sharing)
