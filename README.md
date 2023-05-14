@@ -10,9 +10,9 @@ Insert Summary here
 
 ## **Topologies and Aides**
 
-+ [Topology]() 
-    + Timestamp 
-+ [Topology Write Up]()
++ [Topology](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Topology) 
+    
++ [Topology Write Up](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Topology_Details)
 
 
 ## **SOP's**
