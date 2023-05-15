@@ -5,7 +5,7 @@
 
 
 ## **Project Scope**
-+ [Project Scope](https://docs.google.com/document/d/1OxHyCZ-GSt48Q7gy0wm1JUJyvU6_ucswUhPEJc1E2L0/edit?usp=sharing)
++ [Project Scope](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Project-Scope)
 
 
 ## **Project Management**
