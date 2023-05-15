@@ -4,6 +4,10 @@
 + [Team Agreement](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Team-Agreement)
 
 
+## **Project Scope**
++ [Project Scope](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Project-Scope)
+
+
 ## **Project Management**
 + [Trello Board](https://trello.com/b/C9X54gQm/cloud-security-architecture-design)
 
@@ -21,13 +25,12 @@
 + [Compliance Documentation](https://github.com/Five-Star-Solutions/Supporting-Documentation/wiki/Compliance-Documentation-SOP)
 
 
-
-
 ## **Presentation**
 + Link for presentation video available on 05/20/2023
 + [Presentation Day Video]()
 
 + [Slideshow](https://docs.google.com/presentation/d/1teC4yUv8ziP5DyatGcx7pEjp8VA82iOanr9ZEK7Stb4/edit?usp=sharing)
+
 
 ## **Scripts**
 
