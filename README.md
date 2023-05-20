@@ -26,7 +26,6 @@
 
 
 ## **Presentation**
-+ Link for presentation video available on 05/20/2023
 + [Presentation Day Video](https://zoom.us/rec/play/s-S5g7PHe-jTXwkWdLO64woXFi6247ppmuisyiW2mWFT_jzEWzK_DKgtwxYg4Zuqi4WOjxSCqMO88OH3.-FngdP2GtNZVdXbG?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FyG8GHo5Zr8NvKQkDxxpLCAANd6KVGupkgFfP3Fby-VCKVfC8MBMFVynZkVNWJTma.lDTwqlVmGYS81oKQ)
 + Timestamp 00:00:50
 
